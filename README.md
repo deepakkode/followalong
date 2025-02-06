@@ -12,3 +12,5 @@ Project Overview In this milestone we: Understood the general structure of a MER
 ## Milestone 2: 
 It will set up the frontend using React and Tailwind CSS as well as the backend using Node.js. It will be using a structured folder hierarchy with both frontend and backend directories. This is the first user-facing feature: the Login Page, and it has both functionality and styling. Check out the repository for the full setup and progress.
 
+## Milestone 3:
+This milestone is to create the backend of the application with Node.js, Express, and MongoDB. Routes, controllers, models, and middleware are organized within a well-structured folder hierarchy. The server is configured to handle API requests and connects to MongoDB for storing data. Basic error handling has been added to improve debugging and user experience.
